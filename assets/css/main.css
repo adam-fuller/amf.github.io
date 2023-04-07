@@ -2780,8 +2780,8 @@ iframe {
 
 				/* affects shading when hovered */
 				body:not(.is-touch) .tiles article:hover > .image:before {
-					background-color: #333333;
-					opacity: 0.75;
+					background-color: #000000;
+					opacity: .5;
 				}
 				/* affects X when hovered */
 				body:not(.is-touch) .tiles article:hover > .image:after {
