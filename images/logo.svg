@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+	<title>logo-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 150px;fill: #000000;font-weight: 700;font-family: "CourierPrime-Bold", "Courier Prime" } 
+	</style>
+	<text id="AF" style="transform: matrix(1.503,0,0,1.503,20.503,164.751)" >
+		<tspan x="0" y="0" class="t0">A</tspan><tspan  y="0" class="t0">F
+</tspan>
+	</text>
+</svg>
