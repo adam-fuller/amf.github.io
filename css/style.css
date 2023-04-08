@@ -116,7 +116,7 @@ a.search-submit-button {background: #fff;border-bottom: 1px solid #eeeeee;border
 /* ---------------------------------------------------------------------------- */
 header{background: #131313;padding: 25px 0 25px 0px;margin-bottom: 25px;}
 
-a.site-branding {text-align: center;color: #888;margin-bottom: 50px;height: auto;padding: 0;display: inline-block;}
+a.site-branding {text-align: center;color: #888;margin-bottom: 10px;height: auto;padding: 0;display: inline-block;}
 .main-header h1.site-title, .main-header .site-title a {letter-spacing: 2px;color: #131313;margin: 0;text-transform: uppercase;font-size: 39px;font-weight: 300;line-height: 1;}
 p.site-description{margin: 0;font-size: 16px;}
 
